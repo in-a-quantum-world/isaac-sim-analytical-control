@@ -1,2 +1,2 @@
 # isaac-sim-analytical-control
-Analytical controllers in NVIDIA's Isaac Sim
+Analytical robotics controllers in NVIDIA's Isaac Sim
